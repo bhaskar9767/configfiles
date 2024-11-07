@@ -1,0 +1,14 @@
+info:
+  name : "Accounts-Ms"
+  description: "this is accounts ms"
+  version: 1.0.0
+
+config:
+  propertyOne : "git-cs-prod-propertyOne"
+  propertyTwo :
+    propOne: "git-cs-prod-propOne"
+    propTwo: "git-cs-prod-propTwo"
+  propertyThree :
+    - "git-cs-prod-one"
+    - "git-cs-prod-two"
+    - "git-cs-prod-three"
